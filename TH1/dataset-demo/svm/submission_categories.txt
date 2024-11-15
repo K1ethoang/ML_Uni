@@ -1,0 +1,13 @@
+# Competition Overview
+
+**The goal of this competition is to create notebooks that demonstrate how to use the Gemma LLM to accomplish one or more of the following developer-oriented tasks**:
+- Answer common questions about the Kaggle platform. 
+- Explain or teach basic data science concepts.
+- Summarize Kaggle Solution write ups.
+- Explain or teach concepts from Kaggle Solution write ups.
+- Answer common questions about the Python programming language.
+
+
+Submissions to this competition take the form of Kaggle Notebooks. Your notebook should demonstrate how to use the Gemma model to complete the task that you have selected. 
+
+**How can Gemma be used to assist Kaggle developers? Show us your ideas today!**

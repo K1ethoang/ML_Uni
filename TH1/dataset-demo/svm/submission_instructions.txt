@@ -1,0 +1,5 @@
+# Submission Instructions
+
+**To participate in this competition, you must create and share a public Kaggle Notebook that demonstrates how to use the Gemma model to accomplish one of the 5x relevant tasks**. Your Kaggle Notebook must be made public (along with any underlying data sources) and it should be attached to the official competition dataset. All team members must be listed as collaborators on the notebook, and the notebook must be submitted via the [Google Form](https://www.kaggle.com/kaggle-assistant-submissions). All submissions will be assessed initially according to the eligibility criteria, and all eligible submissions will be scored according to the evaluation rubric. We will grade the most recent submission from your team (per competition, not per category).
+
+**To submit to this competition fill out the Google Form [here](https://www.kaggle.com/kaggle-assistant-submissions).**
